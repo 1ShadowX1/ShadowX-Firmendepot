@@ -1,6 +1,6 @@
 # Changelog für das Firmenkonto-Einzahlungssystem
 
-Version 1.1.0
+Version 1.0.1
 
 ## Neue Funktionen:
 
@@ -15,3 +15,7 @@ Eine neue Option UseNewNotification wurde hinzugefügt, um zwischen der alten un
 ## Fehlerbehebungen:
 
 Es wurden einige Fehler des Scripts behoben.
+
+
+### Community Support
+- **[Discord Invite Link](https://discord.gg/szU5T7hD9Y)**
