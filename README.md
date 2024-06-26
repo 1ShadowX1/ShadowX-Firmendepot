@@ -17,5 +17,5 @@ Eine neue Option UseNewNotification wurde hinzugefügt, um zwischen der alten un
 Es wurden einige Fehler des Scripts behoben.
 
 
-### Community Support
+### Community / Support Server:
 - **[Discord Invite Link](https://discord.gg/szU5T7hD9Y)**
