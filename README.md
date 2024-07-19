@@ -18,4 +18,4 @@ Es wurden einige Fehler des Scripts behoben.
 
 
 ### Community / Support Server:
-- **[Discord Invite Link](https://discord.gg/szU5T7hD9Y)**
+- **[Discord Invite Link](https://discord.gg/7NpBsGT4vD)**
